@@ -1,1 +1,1 @@
-Welcome to Collections API.
+Welcome to Collections API
